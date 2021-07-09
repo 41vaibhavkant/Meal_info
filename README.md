@@ -1,8 +1,8 @@
 # MEAL INFORMATION " PROJECT'0' "
 #### By vaibhav
 ## Service Function
-		1.Create Database
-		2.Install package PYMONGO
+		1.Install package PYMONGO
+		2.Create Database
 		3.Attach meal_info.json file into the source code.
 		4.Call the function.
 ## Use MongoDb for Nosql database
