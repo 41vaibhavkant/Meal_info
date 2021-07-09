@@ -7,7 +7,7 @@
 		4.Call the function.
 ## Use MongoDb for Nosql database
 		1. Meal information (Mongodb).
-## RESTAPI Design:
+## REST FUNCTION Used are:
 		1.Insert_many():
 				"This will insert more than one input data into the Database".
 		2.Insert_one():
