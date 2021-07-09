@@ -2,8 +2,9 @@
 #### By vaibhav
 ## Service Function
 		1.Create Database
-		2.Attach meal_info.json file into the source code.
-		3.Call the function.
+		2.Install package PYMONGO
+		3.Attach meal_info.json file into the source code.
+		4.Call the function.
 ## Use MongoDb for Nosql database
 		1. Meal information (Mongodb).
 ## RESTAPI Design:
