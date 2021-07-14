@@ -10,7 +10,7 @@
 ## Requirements
 		1. python3.8
 		2. MongoDB Compass
-		3. MYSQL Workbench
+		
 ## REST FUNCTION Used are:
 		1.Insert_many():
 				"This will insert more than one input data into the Database".
